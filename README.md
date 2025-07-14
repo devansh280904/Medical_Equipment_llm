@@ -54,7 +54,7 @@ cd Medical_Equipment_llm
 
 ### 2. Download the Model File
 
-- [Download the model from Google Drive]([https://drive.google.com/file/d/1Xij_B6B0VrXQNW5SIrmJiP-voL44nhid/view?usp=drive_link](https://drive.google.com/file/d/1Xij_B6B0VrXQNW5SIrmJiP-voL44nhid/view?usp=sharing))
+- [Download the model from Google Drive](https://drive.google.com/file/d/1Xij_B6B0VrXQNW5SIrmJiP-voL44nhid/view?usp=sharing)
 - Place the downloaded file in the `models/` directory:
   ```
   models/phi2-medical-merged-q8.gguf
