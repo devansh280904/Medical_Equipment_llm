@@ -1,0 +1,8 @@
+# .gitignore
+models/phi2-medical-merged-q8.gguf
+models/
+*.gguf
+*.bin
+*.safetensors
+*.pt
+*.pth
