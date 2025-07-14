@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Sphygmomanometer",
+    "category": "Cardiology",
+    "description": "A sphygmomanometer is a medical device used to measure blood pressure. It typically consists of an inflatable cuff to restrict blood flow, a measuring unit (mercury, aneroid, or digital), and a mechanism for inflation. It helps healthcare professionals assess cardiovascular health and detect hypertension.",
+    "image": "Sphygmomanometer.jpg"
+  },
+  {
+    "name": "ECG/EKG machine",
+    "category": "Cardiology",
+    "description": "An ECG (Electrocardiogram) or EKG machine records the electrical activity of the heart over a period of time. It uses electrodes placed on the skin to detect heart rhythms and diagnose conditions such as arrhythmias, heart attacks, and other cardiac disorders.",
+    "image": "ECGEKG machine.jpg"
+  },
+  {
+    "name": "Defibrillator",
+    "category": "Emergency",
+    "description": "A defibrillator is a life-saving device that delivers a controlled electric shock to the heart in cases of life-threatening arrhythmias or cardiac arrest. It helps restore a normal heart rhythm and is commonly found in hospitals, ambulances, and public spaces.",
+    "image": "Defibrillator.jpg"
+  },
+  {
+    "name": "Transcutaneous pacer",
+    "category": "Cardiology",
+    "description": "A transcutaneous pacer is a non-invasive device that provides temporary electrical pacing to the heart through electrodes placed on the skin. It is used in emergencies to treat bradycardia (slow heart rate) or heart block until a permanent solution is available.",
+    "image": "Transcutaneous pacer.jpg"
+  },
+  {
+    "name": "Telemetry modules",
+    "category": "Monitoring",
+    "description": "Telemetry modules are wireless devices that continuously transmit patient vital signs, such as heart rate and rhythm, to a central monitoring station. They allow for remote monitoring of multiple patients, enhancing safety and mobility within healthcare facilities.",
+    "image": "Telemetry modules.jpg"
+  },
+  {
+    "name": "Bedside monitors",
+    "category": "Monitoring",
+    "description": "Bedside monitors are multi-parameter devices that display and record vital signs such as heart rate, blood pressure, oxygen saturation, and respiratory rate. They provide real-time monitoring for patients in critical care, operating rooms, and emergency departments.",
+    "image": "Bedside monitors.jpg"
+  },
+  {
+    "name": "MRI scanner",
+    "category": "Imaging",
+    "description": "An MRI (Magnetic Resonance Imaging) scanner uses strong magnetic fields and radio waves to generate detailed images of organs and tissues inside the body. It is especially useful for imaging the brain, spinal cord, joints, and soft tissues without using ionizing radiation.",
+    "image": "MRI scanner.jpg"
+  },
+  {
+    "name": "Ultrasound machine",
+    "category": "Imaging",
+    "description": "An ultrasound machine uses high-frequency sound waves to create real-time images of internal organs, tissues, and blood flow. It is widely used for monitoring pregnancies, diagnosing abdominal and pelvic conditions, and guiding certain medical procedures.",
+    "image": "Ultrasound machine.jpg"
+  },
+  {
+    "name": "Ventilators",
+    "category": "Respiratory",
+    "description": "A ventilator is a machine that provides mechanical respiratory support to patients who are unable to breathe adequately on their own. It delivers controlled breaths of air or oxygen, and is essential in intensive care, surgery, and emergency medicine.",
+    "image": "Ventilators.jpg"
+  },
+  {
+    "name": "Oxygen monitors",
+    "category": "Respiratory",
+    "description": "Oxygen monitors, commonly known as pulse oximeters, are devices that measure the oxygen saturation level in a patient's blood. They provide a quick, non-invasive way to assess respiratory function and detect hypoxemia.",
+    "image": "Oxygen monitors.png"
+  },
+  {
+    "name": "Parenteral infusion pumps",
+    "category": "Infusion",
+    "description": "Parenteral infusion pumps are electronic devices that deliver precise amounts of fluids, medications, or nutrients directly into a patient's bloodstream. They are used in hospitals for continuous or intermittent infusions, ensuring accurate dosing and safety.",
+    "image": "Parenteral infusion pumps.jpg"
+  },
+  {
+    "name": "Catheters",
+    "category": "General",
+    "description": "Catheters are flexible tubes inserted into the body to drain fluids, administer medications, or measure pressures. They are used in various medical procedures, including urinary drainage, intravenous therapy, and cardiac monitoring.",
+    "image": "Catheters.jpg"
+  },
+  {
+    "name": "Medical network devices",
+    "category": "IT",
+    "description": "Medical network devices such as hubs, routers, and servers facilitate secure data communication and integration between medical equipment, electronic health records, and hospital information systems, supporting efficient and reliable healthcare delivery.",
+    "image": "Medical network devices.jpg"
+  },
+  {
+    "name": "Pulse oximeters",
+    "category": "Monitoring",
+    "description": "A pulse oximeter is a non-invasive device that measures the oxygen saturation (SpO2) of arterial blood and pulse rate. It is commonly clipped onto a patient's finger and provides immediate feedback on respiratory status.",
+    "image": "Pulse oximeters.jpg"
+  },
+  {
+    "name": "Capnographs",
+    "category": "Monitoring",
+    "description": "A capnograph is a monitoring device that measures the concentration of carbon dioxide (CO2) in exhaled air. It provides real-time information about a patient's ventilatory status and is essential during anesthesia and critical care.",
+    "image": "Capnographs.jpg"
+  },
+  {
+    "name": "Doppler ultrasound devices",
+    "category": "Imaging",
+    "description": "Doppler ultrasound devices use the Doppler effect to assess blood flow in vessels. They help detect blockages, measure blood velocity, and evaluate circulatory conditions in various organs.",
+    "image": "Doppler ultrasound devices.jpg"
+  },
+  {
+    "name": "Anesthesia machines",
+    "category": "Surgical",
+    "description": "An anesthesia machine is a device that delivers a precise mixture of anesthetic gases and oxygen to patients during surgery. It includes safety features and monitoring systems to ensure patient safety throughout the procedure.",
+    "image": "Anesthesia machines.jpg"
+  },
+  {
+    "name": "Infant incubators (NICU)",
+    "category": "NICU",
+    "description": "An infant incubator is a specialized enclosure that provides a controlled, warm, and humid environment for premature or ill newborns. It helps regulate temperature, humidity, and oxygen levels to support neonatal care.",
+    "image": "Infant incubators.jpg"
+  },
+  {
+    "name": "Electromyography (EMG) machine",
+    "category": "Neuro",
+    "description": "An electromyography (EMG) machine records the electrical activity produced by skeletal muscles. It is used to diagnose neuromuscular disorders, nerve dysfunction, and muscle diseases.",
+    "image": "Electromyography (EMG) machine.jpg"
+  },
+  {
+    "name": "Electroencephalography (EEG) machine",
+    "category": "Neuro",
+    "description": "An electroencephalography (EEG) machine records the electrical activity of the brain using electrodes placed on the scalp. It is used to diagnose epilepsy, sleep disorders, and other neurological conditions.",
+    "image": "Electroencephalography (EEG) machine.png"
+  }
+]
